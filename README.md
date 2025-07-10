@@ -18,7 +18,7 @@ The application is optimized for both desktop and mobile views, ensuring a smoot
 
 ✅ Vanilla JavaScript – For task management logic and DOM interactions
 
-🖥 VS Code – Code editor used for development
+🖥 [VS CODE](https://code.visualstudio.com) – Code editor used for development
 
 ---
 
